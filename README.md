@@ -3,7 +3,7 @@ Welcome to my GitHub portfolio!
 
 ## About Me
 🎓 Bachelor of Computer Science (BCS) student at IIMS (Taylor University) 
-  Interested in Web Development, Data Analyst and Data Science
+  Interested in Web Development, Data Analyst and Designing
 
 ## Projects
 MindFulConnect Design (College Project) – A mental health awareness platform providing resources, counseling, and community discussions Design by using canva
